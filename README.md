@@ -42,7 +42,8 @@
     - ![](102.png)
 
 - <https://gitee.com/equation/freeloadMap>
-    - **freeloadMap** 我*uc*（你懂就好）
+    - **freeloadMap** 我%&$=（你懂就好）
+    - 示例网页：不存在的，弄到本地看吧！
     - ![](freeloadMap.png)
 
 - <https://github.com/outloudvi/mmp>
