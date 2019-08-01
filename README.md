@@ -1,5 +1,7 @@
 # 动态蹭饭图制作指北
 
+[English](#english-version)
+
 厌倦了千篇一律的静态蹭饭图？来看看各家动态蹭饭图是怎么做的吧！
 
 各家的英文译名千奇百怪，不要指望什么关键词比“蹭饭图”好用:grin:
@@ -48,3 +50,11 @@
     - 恕我点不出任何效果。。
     - 示例网页：<https://outv.im/mmp/#/>
     - ![](mmp.png)
+
+# English version
+
+I am too lazy to write a full English version, because after all, this maybe the tradition only among Chinese high school students.
+
+But at least I want to explain what  蹭饭图 means in English. 
+
+About one month after College Entrance Examination (June 7th. 8th. 9th), we know where to spend next four years or so as a university student. And then we make a map indicating how classmates distribute all over China. Usually the map is static, just a picture, thus the information is limited. But once made into a web page, you cannot have too much  information to display: major, phone numbers,  photos and attachments and so on.
