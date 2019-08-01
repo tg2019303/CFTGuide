@@ -51,6 +51,10 @@
     - 恕我点不出任何效果。。
     - 示例网页：<https://outv.im/mmp/#/>
     - ![](mmp.png)
+- <https://github.com/SunsonMiddleSchool/2018class10-Graduation-Map>
+    - 台州市书生中学2018届毕业生10班去向图（**Graduation Map**）
+    - 示例网页：<https://map.gogo.moe>
+    - ![](2018class10-Graduation-Map.jpg)
 
 # English version
 
