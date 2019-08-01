@@ -55,6 +55,10 @@
     - 台州市书生中学2018届毕业生10班去向图（**Graduation Map**）
     - 示例网页：<https://map.gogo.moe>
     - ![](2018class10-Graduation-Map.jpg)
+- <https://github.com/podiumdesu/graduationMap>
+- <https://github.com/test2g/Graduation-Map>
+- <https://github.com/gzz2000/graduate-map>
+- <https://github.com/PillarsZhang/Map-of-Graduation-Direction>
 
 # English version
 
